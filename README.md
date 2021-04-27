@@ -1,5 +1,4 @@
-# fxcm-api-rest-nodejs-example
-FXCM RESTful API client example for nodejs.
+# Scoffolding NodeJs Stock Listener for Amateur
 
 Requrements:
 1. Node.js version 4 or greater
